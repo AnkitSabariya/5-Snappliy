@@ -1,0 +1,9 @@
+yellow - #F9A528
+
+Green - #235B47
+
+Brown - #402D12
+
+light brown - #d6c1a6;
+
+lighter brown - #F3F1E4
